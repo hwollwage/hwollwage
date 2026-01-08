@@ -3,31 +3,15 @@
 </p>
 
 <h1 align="center">Greetings, fellow unemployed</h1>
-<h3 align="center">A rejected EE student who ended up in IT</h3>
+<h4 align="center">A rejected EE student who ended up in IT</h4>
 
 <h1 align="center">About Me</h1>
-<h3 align="center">I just code, configure .conf file to waste my life, play roblox, etc. Roblox Username : akusukaroblox3214</h3>
+<h4 align="center">I just code, configure .conf file to waste my life, play roblox, etc. Roblox Username : akusukaroblox3214</h4>
 <h1 align="center">I code with</h1>
 
 ###
 
 <div align="center">
-<h1 align="center">Greetings, fellow unemployed</h1>
-
-###
-
-<p align="center"><b>A rejected EE student who ended up in IT</b></p>
-
-
-###
-
-<h1 align="center">About me</h1>
-
-<h1 align="left">I code with</h1>
-
-###
-
-<div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
