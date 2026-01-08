@@ -1,13 +1,13 @@
-<h1 align="left">Greetings, fellow unemployed</h1>
+<h1 align="center">Greetings, fellow unemployed</h1>
 
 ###
 
-<p align="left"><b>A rejected EE student who ended up in IT</b></p>
+<p align="center"><b>A rejected EE student who ended up in IT</b></p>
 
 
 ###
 
-<h1 align="left">About me</h1>
+<h1 align="center">About me</h1>
 <img align="right" height="170" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExaTJ3dGlvcWttc2lhMXFsdjl5aDB1bGQ3MHZ2N3I4eDQ2cmx2d3l0eiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bl1oVUybMgMI1D3UWd/giphy.gif"/>
 
 ###
