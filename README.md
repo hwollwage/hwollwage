@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 <p align="center">
   <img src="martinsugar2k.gif"/>
 </p>
@@ -13,7 +12,6 @@
 ###
 
 <div align="center">
-=======
 <h1 align="center">Greetings, fellow unemployed</h1>
 
 ###
@@ -24,25 +22,12 @@
 ###
 
 <h1 align="center">About me</h1>
-<img align="right" height="170" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExaTJ3dGlvcWttc2lhMXFsdjl5aDB1bGQ3MHZ2N3I4eDQ2cmx2d3l0eiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bl1oVUybMgMI1D3UWd/giphy.gif"/>
-
-###
-<b>
-[+]   i code <br>
-[+]   configure .conf to waste my life <br>
-[+]   play roblox <br>
-[+]   roblox username : akusukaroblox3214 <br>
-[+]   incoming suicide in 17 years <br>
-</b>
-
-###
 
 <h1 align="left">I code with</h1>
 
 ###
 
 <div align="left">
->>>>>>> 2212526e9ffcef0d72052aa7c8d7849ccbb5d25b
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
