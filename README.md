@@ -1,31 +1,17 @@
-<h1 align="left">Greetings, fellow unemployed</h1>
+<p align="center">
+  <img src="martinsugar2k.gif"/>
+</p>
+
+<h1 align="center">Greetings, fellow unemployed</h1>
+<h3 align="center">A rejected EE student who ended up in IT</h3>
+
+<h1 align="center">About Me</h1>
+<h3 align="center">I just code, configure .conf file to waste my life, play roblox, etc. Roblox Username : akusukaroblox3214</h3>
+<h1 align="center">I code with</h1>
 
 ###
 
-<p align="left"><b>A rejected EE student who ended up in IT</b></p>
-
-
-###
-
-<h1 align="left">About me</h1>
-<img align="right" height="170" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExaTJ3dGlvcWttc2lhMXFsdjl5aDB1bGQ3MHZ2N3I4eDQ2cmx2d3l0eiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bl1oVUybMgMI1D3UWd/giphy.gif"/>
-
-###
-<b>
-[+]   i code <br>
-[+]   configure .conf to waste my life <br>
-[+]   play roblox <br>
-[+]   roblox username : akusukaroblox3214 <br>
-[+]   incoming suicide in 17 years <br>
-</b>
-
-###
-
-<h1 align="left">I code with</h1>
-
-###
-
-<div align="left">
+<div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
